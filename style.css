@@ -1,0 +1,32 @@
+body {
+    font-family:'Courier New';
+    text-align: center;
+    background-color: lightgrey;
+}
+
+#box1{
+  background-color: white;
+
+  border: 3px double black;
+  width: 600px;
+
+  
+  margin: 30px auto;
+  padding: 50px 200px;
+
+}
+
+ul{
+  border-top: 3px solid black;
+  border-bottom:1px solid black;
+  padding: 20px;
+}
+
+
+li {
+	display:inline-block;
+  padding:0 20px;
+  text-transform: uppercase;
+
+
+}
